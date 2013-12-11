@@ -1,0 +1,85 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Qshuttle database maintainer</title>
+</head>
+
+<body>
+
+<h3>car_register</h3>
+
+    <form method="post" action="car_register.php">
+    car_vin:<input type="text" size =40 name="car_vin"><br>
+    car_number:<input type="text" size =40 name="car_number"><br>
+	<input type="submit" name="action" value="query">
+    <input type="submit" name="action" value="insert">
+    <input type="submit" name="action" value="update">
+    <input type="submit" name="action" value="delete">
+    </form>
+
+<h3>com_register</h3>
+
+    <form method="post" action="comregister.php">
+    com_number:<input type="text" size =40 name="com_number"><br>
+    com_carrier:<input type="text" size =40 name="com_carrier"><br>
+    com_cardsn:<input type="text" size =40 name="com_cardsn"><br>
+    com_state:<input type="text" size =40 name="com_state"><br>
+    com_registdate:<input type="text" size =40 name="com_registdate"><br>
+    com_updatedate:<input type="text" size =40 name="com_updatedate"> <br>
+	<input type="submit" name="action" value="query">
+    <input type="submit" name="action" value="insert">
+    <input type="submit" name="action" value="update">
+    <input type="submit" name="action" value="delete">
+    </form>
+
+<h3>device_register</h3>
+
+    <form method="post" action="device_register.php">
+    device_imei:<input type="text" size =40 name="device_imei"><br>
+	car_number:<input type="text" size =40 name="car_number"><br>
+<!-- 
+    device_brand:<input type="text" size =40 name="device_brand"><br>
+    device_model:<input type="text" size =40 name="device_model"><br>
+    device_state:<input type="text" size =40 name="device_state"><br>
+    device_registdate:<input type="text" size =40 name="device_registdate"><br>
+    device_updatedate:<input type="text" size =40 name="device_updatedate"> <br>
+-->
+	<input type="submit" name="action" value="query">
+    <input type="submit" name="action" value="insert">
+    <input type="submit" name="action" value="update">
+    <input type="submit" name="action" value="delete">
+    </form>
+
+<h3>driver_register</h3>
+
+    <form method="post" action="driverregister.php">
+    device_id:<input type="text" size =40 name="device_id"><br>
+    device_brand:<input type="text" size =40 name="device_brand"><br>
+    device_model:<input type="text" size =40 name="device_model"><br>
+    device_state:<input type="text" size =40 name="device_state"><br>
+    device_registdate:<input type="text" size =40 name="device_registdate"><br>
+    device_updatedate:<input type="text" size =40 name="device_updatedate"> <br>
+	<input type="submit" name="action" value="query">
+    <input type="submit" name="action" value="insert">
+    <input type="submit" name="action" value="update">
+    <input type="submit" name="action" value="delete">
+    </form>
+
+<h3>shuttle_config</h3>
+
+    <form method="post" action="shuttleconfig.php">
+    car_number:<input type="text" size =40 name="car_number"><br>
+    com_number:<input type="text" size =40 name="com_number"><br>
+    device_id:<input type="text" size =40 name="device_id"><br>
+    driver_id:<input type="text" size =40 name="driver_id"><br>
+    shuttle_state:<input type="text" size =40 name="shuttle_state"><br>
+    shuttle_seats:<input type="text" size =40 name="shuttle_seats"> <br>
+	<input type="submit" name="action" value="query">
+    <input type="submit" name="action" value="insert">
+    <input type="submit" name="action" value="update">
+    <input type="submit" name="action" value="delete">
+    </form>
+
+</body>
+</html>

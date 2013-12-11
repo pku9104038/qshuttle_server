@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/PhpProjects/!svn/ver/7/Qshuttle/api
+END
+car_tracker_query.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/PhpProjects/!svn/ver/7/Qshuttle/api/car_tracker_query.php
+END
+car_pos_reporter.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/PhpProjects/!svn/ver/7/Qshuttle/api/car_pos_reporter.php
+END
+carregister.php
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/PhpProjects/!svn/ver/7/Qshuttle/api/carregister.php
+END
+deviceregister.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/PhpProjects/!svn/ver/7/Qshuttle/api/deviceregister.php
+END
+shuttleconfig.php
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/PhpProjects/!svn/ver/7/Qshuttle/api/shuttleconfig.php
+END
+shuttle_ticket_query.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/PhpProjects/!svn/ver/7/Qshuttle/api/shuttle_ticket_query.php
+END
+car_number_query.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/PhpProjects/!svn/ver/7/Qshuttle/api/car_number_query.php
+END
+ticket_serve_confirm.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/PhpProjects/!svn/ver/7/Qshuttle/api/ticket_serve_confirm.php
+END
+car_tracker.json
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/PhpProjects/!svn/ver/7/Qshuttle/api/car_tracker.json
+END
+shuttle_ticket_monkey.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/PhpProjects/!svn/ver/7/Qshuttle/api/shuttle_ticket_monkey.php
+END
+device_register_auto.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/PhpProjects/!svn/ver/7/Qshuttle/api/device_register_auto.php
+END
+comregister.php
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/PhpProjects/!svn/ver/7/Qshuttle/api/comregister.php
+END
+instance_tickets_query.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/PhpProjects/!svn/ver/7/Qshuttle/api/instance_tickets_query.php
+END
+car_route_query.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/PhpProjects/!svn/ver/7/Qshuttle/api/car_route_query.php
+END
+driverregister.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/PhpProjects/!svn/ver/7/Qshuttle/api/driverregister.php
+END
+device_register.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/PhpProjects/!svn/ver/7/Qshuttle/api/device_register.php
+END
+car_register.php
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/PhpProjects/!svn/ver/7/Qshuttle/api/car_register.php
+END
+car_tracker_reporter.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/PhpProjects/!svn/ver/7/Qshuttle/api/car_tracker_reporter.php
+END
+carquery.php
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/PhpProjects/!svn/ver/7/Qshuttle/api/carquery.php
+END
